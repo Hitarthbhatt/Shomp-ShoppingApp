@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Images/AppLogo/Logo.png" width="80"  title="Word Guess">
+<img src="Ihttps://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Logo.png" width="80"  title="Word Guess">
 </p>
 
 <h2 align="center">
