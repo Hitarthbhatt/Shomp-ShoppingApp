@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Ihttps://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Logo.png" width="80"  title="Word Guess">
+<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Logo.png" width="100"  title="Shomp">
 </p>
 
 <h2 align="center">
@@ -8,5 +8,7 @@ Shomp
 
 
 <p align="center">
-<img src="Images/Jain Fast Food/Home.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Jain Fast Food/Menu.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Jain Fast Food/Detail.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Jain Fast Food/Cart.png" width="226" title="Cart">
+<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Bookmark.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Cart.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Home.png" width="230" title="Detail">
 </p>
